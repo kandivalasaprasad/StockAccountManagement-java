@@ -1,0 +1,3 @@
+Stock [shareName=TCS, noOfShare=200, sharePrice=4000.0, totalValue=800000.0]
+Stock [shareName=CAPGEMINI, noOfShare=100, sharePrice=3000.0, totalValue=300000.0]
+Stock [shareName=INFOSYS, noOfShare=300, sharePrice=6000.0, totalValue=1800000.0]
